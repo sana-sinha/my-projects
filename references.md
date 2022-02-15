@@ -9,3 +9,5 @@ https://deniz.co/8-puzzle-solver/
 https://www.popsci.com/solve-water-puzzle-die-hard-3/
 
 https://playgameoflife.com/
+
+http://pi.math.cornell.edu/~lipa/mec/lesson6.html
